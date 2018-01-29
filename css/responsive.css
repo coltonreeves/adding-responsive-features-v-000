@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1108px) {
+@media (max-width: 1108px) {
 
   .wrapper {
     width: 90%;
@@ -16,7 +16,7 @@
   }
 }
 
-@media only screen and (max-width: 900px) {
+@media (max-width: 900px) {
 
   body {
     font-size: 85%;
@@ -42,13 +42,13 @@
   }
 }
 
-@media only screen and (max-width: 800px) {
+@media (max-width: 800px) {
   #navbar nav a {
     font-size: 0.9em;
   }
 }
 
-@media only screen and (max-width: 750px) {
+@media {
   .col-1, .col-2, .col-3 {
     width: 100%;
     margin-left: 0;
@@ -71,7 +71,7 @@
   }
 }
 
-@media only screen  and (max-width: 700px) {
+@media (max-width: 700px) {
 
   #navbar nav a {
     display: none;
@@ -94,7 +94,7 @@
   }
 }
 
-@media only screen and (max-width: 495px) {
+@media (max-width: 495px) {
 
   #logo h2 {
     visibility: hidden;
